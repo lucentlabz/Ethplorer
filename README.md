@@ -29,7 +29,7 @@ Historical volume and value chart. Detailed information about all tokens.
 
 
 # Widgets for third-party websites
-![alt tag](https://github.com/EverexIO/Ethplorer/blob/develop/images/augur-widget.png)
+![alt tag](https://github.com/EverexIO/Ethplorer/blob/master/images/augur-widget.png)
 
 [Samples and instructions for widget usage](https://ethplorer.io/widgets)
 
