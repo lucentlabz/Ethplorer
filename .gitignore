@@ -1,9 +1,0 @@
-vendor
-service/config.php
-service/log
-composer.lock
-docker-compose.yaml
-Dockerfile
-benchmarks
-.docker
-.idea
