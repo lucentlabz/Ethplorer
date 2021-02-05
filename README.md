@@ -1,7 +1,5 @@
 # Ethplorer - Ethereum Tokens Explorer
 
-Your friendly gate into the Ethereum tokens world
-
 Provides API, TOP charts, Ethereum Tokens Index, Widgets for websites.
 
 Track portfolio for any Ethereum address with historical balance charts and transactions. Complete address analytics from historical balances to the volumes of trading, operations and transfers per token per day. Explore marketing possibilities with token API and display widgets.
@@ -40,23 +38,6 @@ Historical volume and value chart. Detailed information about all tokens.
 
 Documentation available at [WIKI pages](https://github.com/EverexIO/Ethplorer/wiki/ethplorer-api).
 
-
-# Installation
-
-Clone repository into separate webserver's directory.
-
-```
-cd /var/www
-mkdir ethplorer
-git clone https://github.com/everexio/ethplorer.git ethplorer
-```
-
-Make sure your web server supports .htaccess and mod_rewrite.
-
-
-# Configure
-
-Copy service/config.sample.php to service/config.php and specify service addresses.
 
 # Disclaimer
 
