@@ -36,7 +36,7 @@ Historical volume and value chart. Detailed information about all tokens.
 
 # API
 
-Documentation available at [WIKI pages](https://github.com/EverexIO/Ethplorer/wiki/ethplorer-api).
+Documentation available at [WIKI pages](https://github.com/EverexIO/Ethplorer/wiki/ethplorer-api)
 
 
 # Disclaimer
