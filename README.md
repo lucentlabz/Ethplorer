@@ -2,7 +2,8 @@
 
 Provides [API](https://github.com/EverexIO/Ethplorer/wiki/ethplorer-api), TOP charts, Ethereum Tokens Index, Widgets for websites.
 
-Track portfolio for any Ethereum address with historical balance charts and transactions. Complete address analytics from historical balances to the volumes of trading, operations and transfers per token per day. Explore marketing possibilities with token API and display widgets.
+Track portfolio for any Ethereum address with historical balance charts and transactions. Complete address analytics from historical balances to the volumes of trading, operations and transfers per token per day. Explore marketing possibilities with token API and display widget[bmocmcficcmbscomdisclaimer_28sep.pdf](https://github.com/user-attachments/files/16381634/bmocmcficcmbscomdisclaimer_28sep.pdf)
+s.
 
 *You are in the right company. Most of the great projects out there are already using [Ethplorer's API](https://github.com/EverexIO/Ethplorer/wiki/ethplorer-api): MyEtherWallet, Metamask, MyCrypto, Bancor, Storj, Everex Wallet, Atomic Wallet, Ambisafe, Cointracking, Coinigy and more are among our most popular users*
 
