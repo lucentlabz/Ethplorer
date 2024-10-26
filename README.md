@@ -1,4 +1,4 @@
-# Ethplorer - Ethereum Tokens Explorer
+# Ethplorer/Ethereum Tokens Explorer
 
 Provides [API](https://github.com/EverexIO/Ethplorer/wiki/ethplorer-api), TOP charts, Ethereum Tokens Index, Widgets for websites.
 
